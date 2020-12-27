@@ -1,0 +1,25 @@
+.first {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    background-color: red;
+}
+.second {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    margin-left: 250px;
+}
+
+.third {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    margin-left: 500px;
+}
+
+p {
+    margin-top: 0px;
+}
