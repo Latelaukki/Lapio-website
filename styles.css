@@ -1,25 +1,37 @@
 .first {
     width: 200px;
-    height: 100px;
+    height: 150px;
     position: absolute;
     background-color: red;
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
 }
 .second {
     width: 200px;
-    height: 100px;
-    background-color: yellow;
+    height: 150px;
     position: absolute;
+    background-color: yellow;
+    border-color: red;
+    border-width: 10px;
+    border-style: solid;
     margin-left: 250px;
 }
 
 .third {
     width: 200px;
-    height: 100px;
-    background-color: green;
+    height: 150px;
     position: absolute;
+    background-color: green;
+    border-color: yellow;
+    border-width: 10px;
+    border-style: solid;
     margin-left: 500px;
 }
 
 p {
-    margin-top: 0px;
+    margin-top: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    color: blue;
 }
