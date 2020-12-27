@@ -1,15 +1,37 @@
 * { 
-    color: brown; 
+    color: #333; 
 }
 
-.Pääotsikko {    
-    color: blue;
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 2em 1em;
+}
+
+.image {
+    position: absolute;
+}
+
+.list {
+    margin-left: 250px;
+}
+
+code {
+    padding: 2px 4px;
+    vertical-align: text-bottom;
+    background: #eee;
 }
 
 li {
-     color: pink;
+     color: #333;
 }
 
-#kursiivi { 
-    color: red;
+.listaotsikko {
+    color: #444;
+}
+
+p {
+    color: #555;
 }
