@@ -1,1 +1,15 @@
-p { background-color: red; }
+* { 
+    color: brown; 
+}
+
+.Pääotsikko {    
+    color: blue;
+}
+
+li {
+     color: pink;
+}
+
+#kursiivi { 
+    color: red;
+}
